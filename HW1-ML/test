@@ -1,0 +1,1677 @@
+---------- random_forest ----------
+Fitting 3 folds for each of 10 candidates, totalling 30 fits
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 24
+building tree 2 of 24
+building tree 3 of 24
+building tree 4 of 24
+building tree 5 of 24
+building tree 6 of 24
+building tree 7 of 24
+building tree 8 of 24
+building tree 9 of 24
+building tree 10 of 24
+building tree 11 of 24
+building tree 12 of 24
+building tree 1 of 24
+building tree 2 of 24
+building tree 3 of 24
+building tree 4 of 24
+building tree 5 of 24
+building tree 6 of 24
+building tree 7 of 24
+building tree 8 of 24
+building tree 9 of 24
+building tree 10 of 24
+building tree 11 of 24
+building tree 12 of 24
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 24building tree 2 of 24building tree 3 of 24
+
+
+building tree 4 of 24
+building tree 5 of 24
+building tree 6 of 24
+building tree 7 of 24
+building tree 8 of 24
+building tree 9 of 24
+building tree 10 of 24
+building tree 11 of 24
+building tree 12 of 24
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 30
+building tree 2 of 30building tree 3 of 30
+
+building tree 4 of 30
+building tree 5 of 30
+building tree 6 of 30
+building tree 7 of 30
+building tree 8 of 30
+building tree 9 of 30
+building tree 10 of 30
+building tree 11 of 30
+building tree 12 of 30
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 30building tree 2 of 30
+
+building tree 3 of 30
+building tree 4 of 30
+building tree 5 of 30
+building tree 6 of 30
+building tree 7 of 30
+building tree 8 of 30
+building tree 9 of 30
+building tree 10 of 30
+building tree 11 of 30
+building tree 12 of 30
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 30building tree 2 of 30
+
+building tree 3 of 30
+building tree 4 of 30
+building tree 5 of 30
+building tree 6 of 30
+building tree 7 of 30
+building tree 8 of 30
+building tree 9 of 30
+building tree 10 of 30
+building tree 11 of 30
+building tree 12 of 30
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 96building tree 2 of 96
+
+building tree 3 of 96
+building tree 4 of 96
+building tree 5 of 96
+building tree 6 of 96
+building tree 7 of 96
+building tree 8 of 96building tree 9 of 96
+
+building tree 10 of 96
+building tree 11 of 96
+building tree 12 of 96
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 96building tree 2 of 96
+
+building tree 3 of 96
+building tree 4 of 96
+building tree 5 of 96
+building tree 6 of 96
+building tree 7 of 96
+building tree 8 of 96
+building tree 9 of 96
+building tree 10 of 96
+building tree 11 of 96
+building tree 12 of 96
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 96
+building tree 2 of 96
+building tree 3 of 96
+building tree 4 of 96
+building tree 5 of 96
+building tree 6 of 96
+building tree 7 of 96
+building tree 8 of 96
+building tree 9 of 96building tree 10 of 96
+building tree 11 of 96
+
+building tree 12 of 96
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 33building tree 2 of 33
+
+building tree 3 of 33
+building tree 4 of 33
+building tree 5 of 33
+building tree 6 of 33
+building tree 7 of 33
+building tree 8 of 33
+building tree 9 of 33
+building tree 10 of 33
+building tree 11 of 33
+building tree 12 of 33
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 33building tree 2 of 33
+
+building tree 3 of 33
+building tree 4 of 33
+building tree 5 of 33
+building tree 6 of 33
+building tree 7 of 33
+building tree 8 of 33
+building tree 9 of 33
+building tree 10 of 33
+building tree 11 of 33
+building tree 12 of 33
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 33building tree 2 of 33
+building tree 3 of 33
+
+building tree 4 of 33
+building tree 5 of 33
+building tree 6 of 33
+building tree 7 of 33
+building tree 8 of 33
+building tree 9 of 33
+building tree 10 of 33
+building tree 11 of 33
+building tree 12 of 33
+building tree 13 of 24
+building tree 14 of 24
+building tree 15 of 24
+building tree 16 of 24
+building tree 17 of 24building tree 18 of 24
+building tree 19 of 24
+
+building tree 20 of 24
+building tree 21 of 24
+building tree 22 of 24
+building tree 23 of 24
+building tree 24 of 24
+[Parallel(n_jobs=-1)]: Done  10 out of  24 | elapsed:   55.5s remaining:  1.3min
+building tree 13 of 24
+building tree 14 of 24
+building tree 15 of 24
+building tree 16 of 24
+building tree 17 of 24
+building tree 18 of 24
+building tree 19 of 24
+building tree 20 of 24
+building tree 21 of 24
+building tree 22 of 24
+building tree 23 of 24
+[Parallel(n_jobs=-1)]: Done  10 out of  24 | elapsed:   57.8s remaining:  1.3min
+building tree 24 of 24
+building tree 13 of 96
+building tree 14 of 96
+building tree 15 of 96
+building tree 16 of 96
+building tree 17 of 96
+building tree 18 of 96
+building tree 19 of 96
+building tree 20 of 96
+building tree 21 of 96
+[Parallel(n_jobs=-1)]: Done   8 tasks      | elapsed:   58.4s
+building tree 22 of 96
+building tree 23 of 96
+building tree 24 of 96
+building tree 13 of 96
+building tree 14 of 96
+building tree 15 of 96
+building tree 16 of 96
+building tree 17 of 96
+building tree 18 of 96
+building tree 19 of 96
+building tree 20 of 96
+building tree 21 of 96
+[Parallel(n_jobs=-1)]: Done   8 tasks      | elapsed:   58.3s
+building tree 22 of 96
+building tree 23 of 96
+building tree 24 of 96
+building tree 13 of 96
+building tree 14 of 96
+building tree 15 of 96
+building tree 16 of 96
+building tree 17 of 96
+building tree 18 of 96
+building tree 19 of 96
+building tree 20 of 96
+building tree 21 of 96
+building tree 22 of 96
+[Parallel(n_jobs=-1)]: Done   8 tasks      | elapsed:   59.8s
+building tree 23 of 96
+building tree 24 of 96
+building tree 13 of 30
+building tree 14 of 30
+building tree 15 of 30
+building tree 16 of 30
+building tree 17 of 30building tree 18 of 30
+building tree 13 of 30
+
+building tree 19 of 30
+building tree 20 of 30
+building tree 21 of 30
+building tree 22 of 30
+building tree 14 of 30
+building tree 15 of 30
+building tree 23 of 30
+building tree 16 of 30
+building tree 24 of 30
+building tree 13 of 30
+building tree 14 of 30
+building tree 17 of 30
+building tree 18 of 30
+building tree 19 of 30
+building tree 15 of 30
+building tree 20 of 30
+building tree 16 of 30
+building tree 17 of 30building tree 18 of 30
+
+building tree 19 of 30
+building tree 21 of 30
+building tree 20 of 30
+building tree 22 of 30building tree 23 of 30
+
+building tree 24 of 30
+building tree 21 of 30
+building tree 22 of 30
+building tree 23 of 30
+building tree 24 of 30
+building tree 13 of 33
+building tree 14 of 33
+building tree 15 of 33building tree 16 of 33
+building tree 13 of 33
+
+building tree 17 of 33
+building tree 18 of 33
+building tree 14 of 33
+building tree 19 of 33
+building tree 20 of 33
+building tree 21 of 33
+building tree 13 of 33
+building tree 15 of 33
+[Parallel(n_jobs=-1)]: Done   8 tasks      | elapsed:  1.2min
+building tree 14 of 33
+building tree 16 of 33
+building tree 15 of 33
+building tree 22 of 33
+building tree 17 of 33
+building tree 18 of 33
+building tree 19 of 33
+building tree 20 of 33
+building tree 21 of 33
+[Parallel(n_jobs=-1)]: Done   8 tasks      | elapsed:  1.3min
+building tree 23 of 33
+building tree 24 of 33
+building tree 22 of 33
+building tree 16 of 33
+building tree 23 of 33
+building tree 24 of 33
+building tree 17 of 33
+building tree 18 of 33
+building tree 19 of 33
+building tree 20 of 33
+building tree 21 of 33
+[Parallel(n_jobs=-1)]: Done   8 tasks      | elapsed:  1.3min
+building tree 22 of 33
+building tree 23 of 33
+building tree 24 of 33
+[Parallel(n_jobs=-1)]: Done  19 out of  24 | elapsed:  1.8min remaining:   28.9s
+[Parallel(n_jobs=-1)]: Done  24 out of  24 | elapsed:  1.9min finished
+[Parallel(n_jobs=-1)]: Done  19 out of  24 | elapsed:  1.9min remaining:   29.7s
+[Parallel(n_jobs=-1)]: Done  24 out of  24 | elapsed:  1.9min finished
+building tree 25 of 96
+building tree 26 of 96
+building tree 27 of 96
+building tree 25 of 96
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done  10 out of  24 | elapsed:    0.2s remaining:    0.2s
+[Parallel(n_jobs=12)]: Done  19 out of  24 | elapsed:    0.2s remaining:    0.0s
+building tree 26 of 96
+[CV 2/3] END model__max_depth=11, model__min_samples_leaf=4, model__min_samples_split=14, model__n_estimators=24;, score=-398.800 total time= 2.0min
+[Parallel(n_jobs=12)]: Done  24 out of  24 | elapsed:    0.2s finished
+building tree 28 of 96
+building tree 29 of 96
+building tree 30 of 96
+building tree 27 of 96building tree 31 of 96
+
+building tree 28 of 96
+building tree 29 of 96
+building tree 32 of 96
+building tree 33 of 96
+building tree 34 of 96
+building tree 35 of 96
+building tree 30 of 96
+building tree 36 of 96
+building tree 31 of 96
+building tree 32 of 96
+building tree 33 of 96
+building tree 34 of 96
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done  10 out of  24 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=12)]: Done  19 out of  24 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=12)]: Done  24 out of  24 | elapsed:    0.0s finished
+[CV 1/3] END model__max_depth=11, model__min_samples_leaf=4, model__min_samples_split=14, model__n_estimators=24;, score=-1529.835 total time= 2.0min
+building tree 35 of 96
+building tree 36 of 96
+building tree 25 of 96
+building tree 26 of 96
+building tree 27 of 96
+building tree 28 of 96
+building tree 29 of 96
+building tree 30 of 96
+building tree 31 of 96
+building tree 32 of 96
+building tree 33 of 96
+building tree 34 of 96building tree 35 of 96
+
+building tree 36 of 96
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 11building tree 2 of 11
+
+building tree 3 of 11
+building tree 4 of 11
+building tree 5 of 11
+building tree 6 of 11
+building tree 7 of 11
+building tree 8 of 11
+building tree 9 of 11
+building tree 10 of 11building tree 11 of 11
+
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 11building tree 2 of 11
+
+building tree 3 of 11
+building tree 4 of 11
+building tree 5 of 11
+building tree 6 of 11
+building tree 7 of 11
+building tree 8 of 11
+building tree 9 of 11
+building tree 10 of 11building tree 11 of 11
+
+building tree 25 of 30
+building tree 26 of 30
+building tree 27 of 30
+building tree 28 of 30
+building tree 29 of 30
+building tree 30 of 30
+[Parallel(n_jobs=-1)]: Done  18 out of  30 | elapsed:  2.3min remaining:  1.5min
+building tree 25 of 30
+building tree 26 of 30
+building tree 25 of 30
+building tree 27 of 30
+building tree 26 of 30
+building tree 28 of 30
+building tree 29 of 30
+building tree 27 of 30
+building tree 28 of 30
+building tree 29 of 30
+building tree 30 of 30[Parallel(n_jobs=-1)]: Done  18 out of  30 | elapsed:  2.3min remaining:  1.5min
+
+building tree 30 of 30
+[Parallel(n_jobs=-1)]: Done  18 out of  30 | elapsed:  2.3min remaining:  1.6min
+building tree 25 of 33
+building tree 26 of 33
+building tree 27 of 33
+building tree 28 of 33
+building tree 29 of 33
+building tree 25 of 33
+building tree 30 of 33
+building tree 31 of 33
+building tree 32 of 33
+building tree 33 of 33
+[Parallel(n_jobs=-1)]: Done  22 out of  33 | elapsed:  2.3min remaining:  1.2min
+building tree 25 of 33
+building tree 26 of 33
+building tree 26 of 33
+building tree 27 of 33
+building tree 28 of 33
+building tree 29 of 33
+building tree 27 of 33
+building tree 28 of 33
+building tree 30 of 33
+building tree 31 of 33
+building tree 32 of 33
+building tree 33 of 33
+building tree 29 of 33
+[Parallel(n_jobs=-1)]: Done  22 out of  33 | elapsed:  2.4min remaining:  1.2min
+building tree 30 of 33
+building tree 31 of 33
+building tree 32 of 33
+building tree 33 of 33
+[Parallel(n_jobs=-1)]: Done  22 out of  33 | elapsed:  2.3min remaining:  1.2min
+[Parallel(n_jobs=-1)]: Done   4 out of  11 | elapsed:   32.8s remaining:   57.5s
+[Parallel(n_jobs=-1)]: Done   8 out of  11 | elapsed:   33.1s remaining:   12.4s
+[Parallel(n_jobs=-1)]: Done  11 out of  11 | elapsed:   33.6s finished
+building tree 37 of 96
+[Parallel(n_jobs=-1)]: Done   4 out of  11 | elapsed:   32.3s remaining:   56.6s
+building tree 37 of 96
+building tree 38 of 96
+[Parallel(n_jobs=-1)]: Done   8 out of  11 | elapsed:   32.7s remaining:   12.3s
+[Parallel(n_jobs=-1)]: Done  11 out of  11 | elapsed:   32.8s finished
+building tree 38 of 96
+building tree 39 of 96
+building tree 39 of 96
+building tree 40 of 96
+building tree 41 of 96
+building tree 40 of 96
+building tree 42 of 96
+building tree 43 of 96
+building tree 44 of 96
+building tree 41 of 96
+building tree 42 of 96
+building tree 45 of 96
+building tree 43 of 96
+building tree 44 of 96
+[CV 1/3] END model__max_depth=7, model__min_samples_leaf=6, model__min_samples_split=6, model__n_estimators=11;, score=-1455.506 total time=  46.4s
+building tree 46 of 96
+[Parallel(n_jobs=11)]: Using backend ThreadingBackend with 11 concurrent workers.
+[Parallel(n_jobs=11)]: Done   2 out of  11 | elapsed:    0.0s remaining:    0.1s
+[Parallel(n_jobs=11)]: Done   6 out of  11 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=11)]: Done  11 out of  11 | elapsed:    0.0s finished
+building tree 45 of 96
+building tree 46 of 96
+building tree 47 of 96
+building tree 48 of 96
+building tree 47 of 96
+[Parallel(n_jobs=11)]: Using backend ThreadingBackend with 11 concurrent workers.
+[Parallel(n_jobs=11)]: Done   2 out of  11 | elapsed:    0.1s remaining:    0.4s
+[Parallel(n_jobs=11)]: Done   6 out of  11 | elapsed:    0.1s remaining:    0.1s
+[Parallel(n_jobs=11)]: Done  11 out of  11 | elapsed:    0.1s finished
+[CV 2/3] END model__max_depth=7, model__min_samples_leaf=6, model__min_samples_split=6, model__n_estimators=11;, score=-394.831 total time=  45.6s
+building tree 48 of 96
+building tree 37 of 96
+building tree 38 of 96
+building tree 39 of 96
+building tree 40 of 96
+building tree 41 of 96
+building tree 42 of 96
+building tree 43 of 96
+building tree 44 of 96
+building tree 45 of 96
+building tree 46 of 96
+building tree 47 of 96
+building tree 48 of 96
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 11building tree 2 of 11
+
+building tree 3 of 11
+building tree 4 of 11
+building tree 5 of 11
+building tree 6 of 11
+building tree 7 of 11
+building tree 8 of 11
+building tree 9 of 11
+building tree 10 of 11
+building tree 11 of 11
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 11
+building tree 2 of 11
+building tree 3 of 11
+building tree 4 of 11
+building tree 5 of 11
+building tree 6 of 11
+building tree 7 of 11building tree 8 of 11
+
+building tree 9 of 11
+building tree 10 of 11
+building tree 11 of 11
+[Parallel(n_jobs=-1)]: Done  30 out of  30 | elapsed:  3.2min finished
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done  18 out of  30 | elapsed:    0.1s remaining:    0.1s
+[Parallel(n_jobs=12)]: Done  30 out of  30 | elapsed:    0.3s finished
+[Parallel(n_jobs=-1)]: Done  30 out of  30 | elapsed:  3.2min finished
+[CV 2/3] END model__max_depth=15, model__min_samples_leaf=8, model__min_samples_split=14, model__n_estimators=30;, score=-404.031 total time= 3.3min
+[Parallel(n_jobs=-1)]: Done  30 out of  30 | elapsed:  3.3min finished
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done  18 out of  30 | elapsed:    0.1s remaining:    0.0s
+[Parallel(n_jobs=12)]: Done  30 out of  30 | elapsed:    0.3s finished
+[CV 3/3] END model__max_depth=15, model__min_samples_leaf=8, model__min_samples_split=14, model__n_estimators=30;, score=-1708.840 total time= 3.3min
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done  18 out of  30 | elapsed:    0.1s remaining:    0.1s
+[Parallel(n_jobs=12)]: Done  30 out of  30 | elapsed:    0.3s finished
+[Parallel(n_jobs=-1)]: Done   4 out of  11 | elapsed:   27.4s remaining:   48.0s
+[Parallel(n_jobs=-1)]: Done  33 out of  33 | elapsed:  3.2min finished
+[CV 1/3] END model__max_depth=15, model__min_samples_leaf=8, model__min_samples_split=14, model__n_estimators=30;, score=-1678.959 total time= 3.3min
+[Parallel(n_jobs=-1)]: Done   8 out of  11 | elapsed:   27.9s remaining:   10.5s
+building tree 49 of 96
+building tree 49 of 96
+[Parallel(n_jobs=-1)]: Done  11 out of  11 | elapsed:   28.7s finished
+building tree 50 of 96
+building tree 50 of 96
+building tree 51 of 96
+building tree 51 of 96
+building tree 52 of 96
+building tree 53 of 96
+building tree 54 of 96
+[Parallel(n_jobs=-1)]: Done  33 out of  33 | elapsed:  3.2min finished
+building tree 55 of 96
+building tree 52 of 96
+building tree 56 of 96
+building tree 53 of 96
+[Parallel(n_jobs=-1)]: Done  33 out of  33 | elapsed:  3.2min finished
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done   8 tasks      | elapsed:    0.0s
+[Parallel(n_jobs=12)]: Done  22 out of  33 | elapsed:    0.1s remaining:    0.0s
+building tree 54 of 96
+building tree 55 of 96
+building tree 56 of 96
+[CV 2/3] END model__max_depth=15, model__min_samples_leaf=11, model__min_samples_split=9, model__n_estimators=33;, score=-403.450 total time= 3.4min
+building tree 57 of 96
+[Parallel(n_jobs=12)]: Done  33 out of  33 | elapsed:    0.2s finished
+building tree 57 of 96
+building tree 58 of 96
+building tree 58 of 96
+building tree 59 of 96
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=11)]: Using backend ThreadingBackend with 11 concurrent workers.
+[Parallel(n_jobs=11)]: Done   2 out of  11 | elapsed:    0.2s remaining:    0.7s
+[Parallel(n_jobs=11)]: Done   6 out of  11 | elapsed:    0.2s remaining:    0.1s
+[Parallel(n_jobs=11)]: Done  11 out of  11 | elapsed:    0.2s finished
+building tree 1 of 11
+building tree 2 of 11
+building tree 3 of 11
+building tree 4 of 11
+building tree 5 of 11
+building tree 6 of 11
+building tree 7 of 11
+building tree 8 of 11building tree 9 of 11
+building tree 10 of 11
+building tree 11 of 11
+
+building tree 60 of 96
+[CV 3/3] END model__max_depth=7, model__min_samples_leaf=6, model__min_samples_split=6, model__n_estimators=11;, score=-1695.396 total time=  38.3s
+building tree 59 of 96
+building tree 60 of 96
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done   8 tasks      | elapsed:    0.1s
+[Parallel(n_jobs=12)]: Done  22 out of  33 | elapsed:    0.1s remaining:    0.1s
+[Parallel(n_jobs=12)]: Done  33 out of  33 | elapsed:    0.2s finished
+[CV 1/3] END model__max_depth=15, model__min_samples_leaf=11, model__min_samples_split=9, model__n_estimators=33;, score=-1678.011 total time= 3.4min
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done   8 tasks      | elapsed:    0.1s
+[Parallel(n_jobs=12)]: Done  22 out of  33 | elapsed:    0.1s remaining:    0.1s
+[Parallel(n_jobs=12)]: Done  33 out of  33 | elapsed:    0.3s finished
+[CV 3/3] END model__max_depth=15, model__min_samples_leaf=11, model__min_samples_split=9, model__n_estimators=33;, score=-1708.657 total time= 3.4min
+building tree 49 of 96
+building tree 50 of 96
+building tree 51 of 96building tree 52 of 96
+
+building tree 53 of 96
+building tree 54 of 96
+building tree 55 of 96
+building tree 56 of 96
+building tree 57 of 96
+building tree 58 of 96
+building tree 59 of 96
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 11
+building tree 2 of 11
+building tree 3 of 11
+building tree 4 of 11building tree 5 of 11
+building tree 6 of 11
+
+building tree 7 of 11
+building tree 8 of 11
+building tree 9 of 11
+building tree 10 of 11
+building tree 11 of 11
+building tree 60 of 96
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 67building tree 2 of 67
+
+building tree 3 of 67
+building tree 4 of 67
+building tree 5 of 67
+building tree 6 of 67
+building tree 7 of 67building tree 8 of 67
+
+building tree 9 of 67
+building tree 10 of 67building tree 11 of 67
+
+building tree 12 of 67
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 67building tree 2 of 67
+
+building tree 3 of 67
+building tree 4 of 67
+building tree 5 of 67building tree 6 of 67
+building tree 7 of 67
+
+building tree 8 of 67
+building tree 9 of 67building tree 10 of 67
+building tree 11 of 67
+building tree 12 of 67
+
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 67building tree 2 of 67
+building tree 3 of 67
+
+building tree 4 of 67
+building tree 5 of 67
+building tree 6 of 67
+building tree 7 of 67
+building tree 8 of 67
+building tree 9 of 67
+building tree 10 of 67
+building tree 11 of 67building tree 12 of 67
+
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 98building tree 2 of 98
+
+building tree 3 of 98
+building tree 4 of 98
+building tree 5 of 98
+building tree 6 of 98
+building tree 7 of 98building tree 8 of 98
+
+building tree 9 of 98
+building tree 10 of 98
+building tree 11 of 98
+building tree 12 of 98
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 98building tree 2 of 98
+building tree 3 of 98
+
+building tree 4 of 98
+building tree 5 of 98
+building tree 6 of 98
+building tree 7 of 98
+building tree 8 of 98
+building tree 9 of 98
+building tree 10 of 98
+building tree 11 of 98
+building tree 12 of 98
+building tree 61 of 96
+building tree 61 of 96
+building tree 62 of 96
+building tree 63 of 96
+building tree 64 of 96
+building tree 65 of 96
+building tree 66 of 96
+building tree 62 of 96
+building tree 67 of 96
+building tree 63 of 96
+building tree 64 of 96
+building tree 68 of 96
+building tree 65 of 96
+building tree 66 of 96
+building tree 67 of 96
+building tree 69 of 96
+building tree 70 of 96
+building tree 68 of 96
+building tree 69 of 96
+building tree 70 of 96
+building tree 71 of 96
+building tree 72 of 96
+[Parallel(n_jobs=-1)]: Done   4 out of  11 | elapsed:  1.3min remaining:  2.3min
+building tree 71 of 96
+building tree 61 of 96
+building tree 72 of 96
+[Parallel(n_jobs=-1)]: Done   8 out of  11 | elapsed:  1.3min remaining:   29.4s
+building tree 62 of 96
+building tree 63 of 96
+building tree 64 of 96
+building tree 65 of 96
+building tree 66 of 96
+building tree 67 of 96
+[Parallel(n_jobs=-1)]: Done  11 out of  11 | elapsed:  1.4min finished
+building tree 68 of 96
+building tree 69 of 96
+building tree 70 of 96
+building tree 71 of 96
+building tree 72 of 96
+[Parallel(n_jobs=11)]: Using backend ThreadingBackend with 11 concurrent workers.
+[Parallel(n_jobs=11)]: Done   2 out of  11 | elapsed:    0.1s remaining:    0.4s
+[Parallel(n_jobs=11)]: Done   6 out of  11 | elapsed:    0.2s remaining:    0.2s
+[Parallel(n_jobs=11)]: Done  11 out of  11 | elapsed:    0.3s finished
+[CV 1/3] END model__max_depth=28, model__min_samples_leaf=12, model__min_samples_split=7, model__n_estimators=11;, score=-1706.220 total time= 1.5min
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 98building tree 2 of 98
+
+building tree 3 of 98
+building tree 4 of 98
+building tree 5 of 98
+building tree 6 of 98building tree 7 of 98
+building tree 8 of 98
+building tree 9 of 98
+building tree 10 of 98
+building tree 11 of 98
+
+building tree 12 of 98
+[Parallel(n_jobs=-1)]: Done   4 out of  11 | elapsed:  1.3min remaining:  2.3min
+[Parallel(n_jobs=-1)]: Done   8 out of  11 | elapsed:  1.4min remaining:   30.8s
+[Parallel(n_jobs=-1)]: Done  11 out of  11 | elapsed:  1.4min finished
+[Parallel(n_jobs=11)]: Using backend ThreadingBackend with 11 concurrent workers.
+[Parallel(n_jobs=11)]: Done   2 out of  11 | elapsed:    0.3s remaining:    1.3s
+[Parallel(n_jobs=11)]: Done   6 out of  11 | elapsed:    0.4s remaining:    0.3s
+[Parallel(n_jobs=11)]: Done  11 out of  11 | elapsed:    0.5s finished
+[CV 2/3] END model__max_depth=28, model__min_samples_leaf=12, model__min_samples_split=7, model__n_estimators=11;, score=-439.173 total time= 1.6min
+[Parallel(n_jobs=-1)]: Done   4 out of  11 | elapsed:  1.4min remaining:  2.5min
+[Parallel(n_jobs=-1)]: Done   8 out of  11 | elapsed:  1.5min remaining:   33.2s
+building tree 73 of 96
+building tree 74 of 96
+building tree 75 of 96
+building tree 13 of 67
+building tree 14 of 67
+building tree 13 of 98
+building tree 73 of 96building tree 15 of 67
+building tree 14 of 98
+building tree 15 of 98
+
+building tree 13 of 67
+building tree 76 of 96
+[Parallel(n_jobs=-1)]: Done  11 out of  11 | elapsed:  1.5min finished
+building tree 16 of 98
+building tree 16 of 67
+building tree 17 of 98
+building tree 17 of 67
+building tree 18 of 67
+building tree 77 of 96
+building tree 14 of 67building tree 15 of 67building tree 16 of 67
+building tree 78 of 96
+
+building tree 19 of 67
+building tree 20 of 67
+
+building tree 21 of 67
+building tree 17 of 67
+building tree 74 of 96
+building tree 18 of 98
+[Parallel(n_jobs=-1)]: Done   8 tasks      | elapsed:  1.5min
+building tree 79 of 96
+building tree 80 of 96
+building tree 22 of 67
+building tree 19 of 98
+building tree 75 of 96building tree 81 of 96
+
+building tree 18 of 67
+building tree 23 of 67
+building tree 20 of 98
+building tree 21 of 98
+building tree 76 of 96
+building tree 13 of 67
+building tree 82 of 96
+[Parallel(n_jobs=-1)]: Done   8 tasks      | elapsed:  1.4min
+building tree 19 of 67
+building tree 22 of 98
+building tree 20 of 67building tree 23 of 98
+
+building tree 77 of 96
+building tree 21 of 67[Parallel(n_jobs=-1)]: Done   8 tasks      | elapsed:  1.5min
+
+building tree 22 of 67
+building tree 78 of 96
+building tree 13 of 98
+building tree 14 of 67
+building tree 23 of 67
+building tree 15 of 67
+building tree 16 of 67
+building tree 79 of 96
+building tree 80 of 96
+building tree 14 of 98building tree 17 of 67
+
+building tree 24 of 98building tree 15 of 98
+
+[Parallel(n_jobs=11)]: Using backend ThreadingBackend with 11 concurrent workers.
+building tree 81 of 96
+building tree 16 of 98
+building tree 18 of 67
+building tree 24 of 67building tree 83 of 96
+
+[Parallel(n_jobs=11)]: Done   2 out of  11 | elapsed:    0.4s remaining:    2.0s
+[Parallel(n_jobs=11)]: Done   6 out of  11 | elapsed:    0.5s remaining:    0.5s
+[Parallel(n_jobs=11)]: Done  11 out of  11 | elapsed:    0.6s finished
+building tree 82 of 96
+building tree 17 of 98building tree 83 of 96
+building tree 24 of 67
+building tree 18 of 98
+
+[CV 3/3] END model__max_depth=28, model__min_samples_leaf=12, model__min_samples_split=7, model__n_estimators=11;, score=-1710.985 total time= 1.7min
+building tree 19 of 67
+building tree 20 of 67
+building tree 21 of 67
+[Parallel(n_jobs=-1)]: Done   8 tasks      | elapsed:  1.5min
+[Parallel(n_jobs=-1)]: Done   8 tasks      | elapsed:  1.5min
+building tree 19 of 98
+building tree 20 of 98
+building tree 21 of 98
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 84 of 96
+building tree 22 of 67
+building tree 84 of 96
+building tree 22 of 98
+building tree 23 of 67
+building tree 23 of 98
+building tree 24 of 98
+building tree 1 of 51building tree 2 of 51
+
+building tree 3 of 51
+building tree 4 of 51
+building tree 5 of 51building tree 6 of 51
+
+building tree 7 of 51
+building tree 73 of 96building tree 8 of 51building tree 9 of 51
+
+
+building tree 10 of 51
+building tree 11 of 51
+building tree 12 of 51
+building tree 24 of 67
+building tree 74 of 96
+building tree 75 of 96building tree 76 of 96
+
+building tree 77 of 96
+building tree 78 of 96
+building tree 79 of 96
+building tree 80 of 96
+building tree 81 of 96
+building tree 82 of 96
+building tree 83 of 96
+building tree 84 of 96
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 51building tree 2 of 51
+
+building tree 3 of 51building tree 4 of 51
+building tree 5 of 51
+
+building tree 6 of 51
+building tree 7 of 51
+building tree 8 of 51
+building tree 9 of 51
+building tree 10 of 51
+building tree 11 of 51
+building tree 12 of 51
+building tree 85 of 96
+building tree 86 of 96
+building tree 87 of 96
+building tree 88 of 96
+building tree 89 of 96
+building tree 85 of 96
+building tree 90 of 96
+building tree 91 of 96
+building tree 92 of 96
+building tree 93 of 96
+building tree 86 of 96
+building tree 94 of 96
+building tree 87 of 96
+building tree 88 of 96
+building tree 95 of 96
+building tree 89 of 96
+building tree 90 of 96
+building tree 91 of 96
+building tree 96 of 96
+building tree 92 of 96
+building tree 13 of 98
+building tree 93 of 96
+building tree 94 of 96
+building tree 85 of 96
+building tree 86 of 96
+building tree 95 of 96
+building tree 96 of 96
+building tree 14 of 98
+building tree 15 of 98
+building tree 87 of 96
+building tree 88 of 96
+building tree 89 of 96
+building tree 90 of 96
+building tree 91 of 96building tree 16 of 98
+
+building tree 92 of 96
+building tree 93 of 96
+building tree 94 of 96
+building tree 17 of 98
+building tree 18 of 98
+building tree 95 of 96
+building tree 96 of 96
+building tree 19 of 98
+building tree 20 of 98
+[Parallel(n_jobs=-1)]: Done   8 tasks      | elapsed:  1.5min
+building tree 21 of 98
+building tree 22 of 98
+building tree 23 of 98
+building tree 24 of 98
+building tree 25 of 98
+building tree 26 of 98
+building tree 27 of 98
+building tree 28 of 98
+building tree 29 of 98
+building tree 30 of 98
+building tree 31 of 98
+building tree 25 of 67
+building tree 32 of 98
+building tree 13 of 51
+building tree 14 of 51
+building tree 33 of 98
+building tree 34 of 98
+building tree 26 of 67
+building tree 15 of 51
+building tree 27 of 67
+building tree 35 of 98
+building tree 28 of 67building tree 16 of 51
+building tree 17 of 51
+
+building tree 29 of 67
+building tree 18 of 51
+building tree 19 of 51
+building tree 20 of 51
+[Parallel(n_jobs=-1)]: Done   8 tasks      | elapsed:  1.4min
+building tree 21 of 51
+building tree 22 of 51
+building tree 30 of 67
+building tree 23 of 51
+building tree 24 of 51
+building tree 31 of 67
+building tree 36 of 98
+building tree 32 of 67
+building tree 33 of 67
+building tree 34 of 67
+building tree 25 of 98
+building tree 26 of 98
+building tree 27 of 98
+building tree 28 of 98
+building tree 25 of 67
+building tree 13 of 51
+building tree 29 of 98
+building tree 25 of 67
+building tree 26 of 67
+building tree 26 of 67
+building tree 27 of 67
+building tree 14 of 51
+building tree 35 of 67
+building tree 28 of 67
+building tree 30 of 98
+building tree 29 of 67
+building tree 30 of 67
+building tree 31 of 98
+building tree 15 of 51
+building tree 16 of 51
+building tree 32 of 98
+building tree 27 of 67
+building tree 17 of 51
+building tree 18 of 51
+building tree 19 of 51
+building tree 28 of 67
+building tree 29 of 67building tree 31 of 67
+
+building tree 20 of 51
+building tree 32 of 67
+building tree 36 of 67
+[Parallel(n_jobs=-1)]: Done   8 tasks      | elapsed:  1.4min
+building tree 30 of 67
+building tree 33 of 98
+building tree 21 of 51
+building tree 33 of 67
+building tree 22 of 51
+building tree 23 of 51
+building tree 34 of 67
+building tree 31 of 67
+building tree 34 of 98
+building tree 35 of 98
+building tree 36 of 98
+building tree 24 of 51
+building tree 35 of 67
+building tree 32 of 67
+building tree 36 of 67
+building tree 33 of 67
+building tree 34 of 67
+building tree 35 of 67
+building tree 36 of 67
+[Parallel(n_jobs=-1)]: Done  96 out of  96 | elapsed:  6.7min finished
+[Parallel(n_jobs=-1)]: Done  96 out of  96 | elapsed:  6.8min finished
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done   8 tasks      | elapsed:    0.1s
+[Parallel(n_jobs=-1)]: Done  96 out of  96 | elapsed:  6.7min finished
+[Parallel(n_jobs=12)]: Done  96 out of  96 | elapsed:    0.9s finished
+[CV 2/3] END model__max_depth=11, model__min_samples_leaf=10, model__min_samples_split=4, model__n_estimators=96;, score=-397.524 total time= 6.9min
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done   8 tasks      | elapsed:    0.0s
+[Parallel(n_jobs=12)]: Done  96 out of  96 | elapsed:    0.7s finished
+[CV 1/3] END model__max_depth=11, model__min_samples_leaf=10, model__min_samples_split=4, model__n_estimators=96;, score=-1530.087 total time= 6.9min
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done   8 tasks      | elapsed:    0.0s
+[Parallel(n_jobs=12)]: Done  96 out of  96 | elapsed:    0.9s finished
+[CV 3/3] END model__max_depth=11, model__min_samples_leaf=10, model__min_samples_split=4, model__n_estimators=96;, score=-1706.812 total time= 7.0min
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 51
+building tree 2 of 51
+building tree 3 of 51
+building tree 4 of 51
+building tree 5 of 51
+building tree 6 of 51
+building tree 7 of 51
+building tree 8 of 51
+building tree 9 of 51
+building tree 10 of 51
+building tree 11 of 51
+building tree 12 of 51
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 64
+building tree 2 of 64
+building tree 3 of 64
+building tree 4 of 64
+building tree 5 of 64
+building tree 6 of 64
+building tree 7 of 64
+building tree 8 of 64
+building tree 9 of 64
+building tree 10 of 64
+building tree 11 of 64
+building tree 12 of 64
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 64building tree 2 of 64
+
+building tree 3 of 64
+building tree 4 of 64
+building tree 5 of 64
+building tree 6 of 64
+building tree 7 of 64
+building tree 8 of 64
+building tree 9 of 64
+building tree 10 of 64
+building tree 11 of 64
+building tree 12 of 64
+building tree 25 of 98
+building tree 26 of 98
+building tree 27 of 98
+building tree 28 of 98
+building tree 29 of 98
+building tree 30 of 98
+building tree 31 of 98
+building tree 32 of 98
+building tree 33 of 98
+building tree 34 of 98
+building tree 35 of 98
+building tree 36 of 98
+building tree 37 of 98
+building tree 25 of 51
+building tree 38 of 98
+building tree 39 of 98
+building tree 26 of 51
+building tree 40 of 98
+building tree 41 of 98
+building tree 42 of 98
+building tree 27 of 51
+building tree 28 of 51
+building tree 29 of 51
+building tree 43 of 98
+building tree 30 of 51
+building tree 44 of 98
+building tree 45 of 98
+building tree 25 of 51
+building tree 31 of 51
+building tree 32 of 51
+building tree 26 of 51
+building tree 33 of 51
+building tree 34 of 51
+building tree 27 of 51
+building tree 28 of 51
+building tree 29 of 51
+building tree 30 of 51
+building tree 35 of 51
+building tree 31 of 51
+building tree 46 of 98
+building tree 47 of 98
+building tree 36 of 51
+building tree 32 of 51
+building tree 33 of 51
+building tree 34 of 51
+building tree 37 of 67
+building tree 35 of 51
+building tree 38 of 67
+building tree 39 of 67
+building tree 48 of 98
+building tree 40 of 67
+building tree 36 of 51
+building tree 41 of 67
+building tree 42 of 67
+building tree 43 of 67
+building tree 44 of 67
+building tree 45 of 67
+building tree 46 of 67building tree 37 of 98
+
+building tree 38 of 98
+building tree 39 of 98
+building tree 47 of 67
+building tree 40 of 98
+building tree 41 of 98
+building tree 42 of 98
+building tree 43 of 98
+building tree 37 of 67
+building tree 38 of 67building tree 44 of 98
+building tree 45 of 98
+
+building tree 46 of 98
+building tree 39 of 67
+building tree 40 of 67
+building tree 47 of 98
+building tree 48 of 98
+building tree 41 of 67
+building tree 42 of 67
+building tree 43 of 67
+building tree 37 of 67
+building tree 48 of 67
+building tree 44 of 67
+building tree 38 of 67
+building tree 45 of 67
+building tree 46 of 67
+building tree 39 of 67
+building tree 40 of 67
+building tree 47 of 67
+building tree 41 of 67
+building tree 48 of 67
+building tree 42 of 67
+building tree 43 of 67
+building tree 44 of 67
+building tree 45 of 67
+building tree 46 of 67
+building tree 47 of 67
+building tree 48 of 67
+building tree 13 of 51
+building tree 14 of 51
+building tree 13 of 64
+building tree 15 of 51
+building tree 16 of 51
+building tree 17 of 51
+building tree 18 of 51
+building tree 19 of 51
+building tree 14 of 64
+building tree 15 of 64
+building tree 16 of 64
+building tree 20 of 51
+[Parallel(n_jobs=-1)]: Done   8 tasks      | elapsed:  1.4min
+building tree 21 of 51
+building tree 22 of 51
+building tree 17 of 64
+building tree 18 of 64
+building tree 19 of 64
+building tree 13 of 64
+building tree 20 of 64
+[Parallel(n_jobs=-1)]: Done   8 tasks      | elapsed:  1.4min
+building tree 21 of 64
+building tree 22 of 64
+building tree 14 of 64
+building tree 23 of 64
+building tree 24 of 64
+building tree 15 of 64
+building tree 16 of 64
+building tree 17 of 64
+building tree 18 of 64
+building tree 23 of 51
+building tree 24 of 51
+building tree 19 of 64
+building tree 20 of 64
+building tree 21 of 64
+building tree 22 of 64
+[Parallel(n_jobs=-1)]: Done   8 tasks      | elapsed:  1.4min
+building tree 23 of 64
+building tree 24 of 64
+building tree 37 of 98
+building tree 38 of 98
+building tree 39 of 98
+building tree 40 of 98
+building tree 41 of 98
+building tree 42 of 98
+building tree 43 of 98
+building tree 44 of 98
+building tree 45 of 98
+building tree 46 of 98
+building tree 47 of 98
+building tree 48 of 98
+building tree 37 of 51
+building tree 37 of 51
+building tree 49 of 98
+building tree 38 of 51
+building tree 39 of 51
+building tree 40 of 51
+building tree 41 of 51
+building tree 42 of 51
+building tree 38 of 51building tree 50 of 98
+
+building tree 39 of 51
+building tree 40 of 51
+building tree 43 of 51
+building tree 51 of 98
+building tree 41 of 51
+building tree 52 of 98
+building tree 44 of 51
+building tree 53 of 98
+building tree 45 of 51
+building tree 54 of 98
+building tree 42 of 51
+building tree 43 of 51
+building tree 55 of 98
+building tree 44 of 51
+building tree 45 of 51
+building tree 46 of 51
+building tree 56 of 98
+building tree 46 of 51
+building tree 47 of 51
+building tree 47 of 51
+building tree 48 of 51
+building tree 57 of 98
+building tree 58 of 98
+building tree 59 of 98
+building tree 48 of 51
+building tree 60 of 98
+building tree 49 of 67
+building tree 50 of 67
+building tree 51 of 67
+building tree 52 of 67
+building tree 53 of 67
+building tree 54 of 67
+building tree 55 of 67
+building tree 49 of 98
+building tree 56 of 67
+building tree 50 of 98
+building tree 51 of 98
+building tree 52 of 98building tree 53 of 98
+
+building tree 54 of 98
+building tree 57 of 67
+building tree 58 of 67
+building tree 59 of 67
+building tree 55 of 98
+building tree 56 of 98
+building tree 49 of 67
+building tree 50 of 67
+building tree 57 of 98
+building tree 58 of 98
+building tree 59 of 98
+building tree 51 of 67
+building tree 52 of 67
+building tree 53 of 67
+building tree 54 of 67
+building tree 60 of 98
+building tree 55 of 67
+building tree 60 of 67
+building tree 56 of 67
+building tree 25 of 64
+building tree 26 of 64
+building tree 57 of 67
+building tree 58 of 67
+building tree 27 of 64
+building tree 28 of 64
+building tree 29 of 64
+building tree 30 of 64
+building tree 49 of 67
+building tree 59 of 67
+building tree 31 of 64
+building tree 32 of 64
+building tree 60 of 67
+building tree 33 of 64
+building tree 25 of 51
+building tree 50 of 67
+building tree 51 of 67
+building tree 34 of 64
+building tree 35 of 64
+building tree 36 of 64
+building tree 25 of 64
+building tree 52 of 67
+building tree 26 of 51
+building tree 26 of 64
+building tree 27 of 51
+building tree 28 of 51
+building tree 29 of 51
+building tree 30 of 51
+building tree 53 of 67
+building tree 31 of 51
+building tree 27 of 64
+building tree 32 of 51
+building tree 28 of 64
+building tree 33 of 51
+building tree 29 of 64
+building tree 54 of 67
+building tree 55 of 67
+building tree 30 of 64
+building tree 34 of 51
+building tree 31 of 64
+building tree 56 of 67
+building tree 32 of 64
+building tree 57 of 67
+building tree 35 of 51
+building tree 33 of 64
+building tree 34 of 64
+building tree 58 of 67
+building tree 59 of 67
+building tree 35 of 64
+building tree 36 of 64
+building tree 60 of 67
+building tree 36 of 51
+building tree 49 of 98
+building tree 50 of 98
+building tree 51 of 98
+building tree 52 of 98
+building tree 53 of 98
+building tree 54 of 98
+building tree 55 of 98
+building tree 56 of 98
+building tree 49 of 51
+building tree 57 of 98
+building tree 50 of 51
+building tree 51 of 51
+building tree 58 of 98
+building tree 49 of 51
+building tree 59 of 98
+building tree 60 of 98
+building tree 50 of 51building tree 51 of 51
+
+[Parallel(n_jobs=-1)]: Done  46 out of  51 | elapsed:  5.6min remaining:   36.2s
+building tree 61 of 98
+building tree 62 of 98
+building tree 63 of 98
+[Parallel(n_jobs=-1)]: Done  46 out of  51 | elapsed:  5.8min remaining:   37.9s
+building tree 64 of 98
+building tree 65 of 98
+building tree 66 of 98
+building tree 67 of 98
+building tree 68 of 98
+building tree 69 of 98
+building tree 70 of 98
+building tree 71 of 98
+building tree 72 of 98
+building tree 37 of 64
+building tree 61 of 67
+building tree 62 of 67building tree 63 of 67
+
+building tree 64 of 67
+building tree 38 of 64
+building tree 39 of 64
+building tree 40 of 64
+building tree 41 of 64
+building tree 65 of 67
+building tree 42 of 64
+building tree 66 of 67
+building tree 43 of 64
+building tree 44 of 64
+building tree 45 of 64
+building tree 67 of 67
+building tree 61 of 98
+building tree 62 of 98
+building tree 63 of 98
+building tree 64 of 98
+building tree 37 of 64
+building tree 65 of 98
+building tree 46 of 64
+building tree 66 of 98
+building tree 47 of 64
+building tree 67 of 98
+building tree 48 of 64
+building tree 68 of 98
+building tree 38 of 64
+building tree 37 of 51building tree 39 of 64
+
+building tree 69 of 98
+building tree 40 of 64
+building tree 38 of 51
+building tree 39 of 51
+building tree 40 of 51
+building tree 41 of 51
+building tree 61 of 67
+building tree 62 of 67
+building tree 42 of 51
+building tree 41 of 64
+building tree 43 of 51
+building tree 63 of 67
+building tree 44 of 51
+building tree 42 of 64
+building tree 64 of 67
+building tree 70 of 98
+building tree 43 of 64
+building tree 44 of 64
+building tree 45 of 51
+building tree 45 of 64
+building tree 71 of 98
+building tree 46 of 51
+building tree 65 of 67
+building tree 66 of 67
+building tree 46 of 64
+building tree 47 of 64
+building tree 47 of 51
+building tree 48 of 64
+building tree 67 of 67
+building tree 72 of 98
+building tree 48 of 51
+building tree 61 of 67
+building tree 62 of 67
+building tree 63 of 67
+building tree 64 of 67
+building tree 65 of 67
+building tree 66 of 67
+building tree 67 of 67
+building tree 61 of 98
+building tree 62 of 98
+[Parallel(n_jobs=-1)]: Done  51 out of  51 | elapsed:  6.6min finished
+building tree 63 of 98
+building tree 64 of 98
+building tree 65 of 98
+building tree 66 of 98
+building tree 67 of 98
+building tree 68 of 98
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done   8 tasks      | elapsed:    0.2s
+[Parallel(n_jobs=12)]: Done  46 out of  51 | elapsed:    1.3s remaining:    0.1s
+[Parallel(n_jobs=12)]: Done  51 out of  51 | elapsed:    1.3s finished
+[CV 2/3] END model__max_depth=21, model__min_samples_leaf=11, model__min_samples_split=12, model__n_estimators=51;, score=-410.474 total time= 6.9min
+building tree 69 of 98
+[Parallel(n_jobs=-1)]: Done  51 out of  51 | elapsed:  6.9min finished
+building tree 70 of 98
+building tree 71 of 98
+building tree 73 of 98
+building tree 72 of 98
+building tree 74 of 98
+building tree 75 of 98
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 76 of 98
+[Parallel(n_jobs=12)]: Done   8 tasks      | elapsed:    0.5s
+building tree 77 of 98
+[Parallel(n_jobs=12)]: Done  46 out of  51 | elapsed:    1.5s remaining:    0.2s
+[Parallel(n_jobs=12)]: Done  51 out of  51 | elapsed:    1.6s finished
+[CV 1/3] END model__max_depth=21, model__min_samples_leaf=11, model__min_samples_split=12, model__n_estimators=51;, score=-1698.844 total time= 7.2min
+building tree 78 of 98
+building tree 79 of 98
+building tree 80 of 98
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 12 concurrent workers.
+building tree 1 of 64building tree 2 of 64
+building tree 3 of 64
+
+building tree 4 of 64
+building tree 5 of 64
+building tree 6 of 64
+building tree 7 of 64
+building tree 8 of 64
+building tree 9 of 64
+building tree 10 of 64
+building tree 11 of 64building tree 12 of 64
+
+building tree 81 of 98
+building tree 82 of 98
+building tree 83 of 98
+building tree 84 of 98
+building tree 49 of 64
+building tree 50 of 64
+building tree 51 of 64
+building tree 52 of 64
+building tree 53 of 64
+building tree 54 of 64
+building tree 55 of 64
+building tree 56 of 64
+building tree 57 of 64
+building tree 58 of 64
+building tree 59 of 64
+building tree 60 of 64
+building tree 49 of 64
+building tree 50 of 64
+building tree 51 of 64
+building tree 52 of 64
+building tree 49 of 51
+building tree 53 of 64
+building tree 50 of 51
+building tree 51 of 51
+building tree 54 of 64
+building tree 55 of 64building tree 56 of 64
+
+building tree 57 of 64
+building tree 73 of 98
+building tree 58 of 64
+building tree 59 of 64
+building tree 74 of 98
+building tree 75 of 98
+building tree 60 of 64
+[Parallel(n_jobs=-1)]: Done  46 out of  51 | elapsed:  5.4min remaining:   35.4s
+building tree 76 of 98
+building tree 77 of 98
+building tree 78 of 98
+[Parallel(n_jobs=-1)]: Done  67 out of  67 | elapsed:  9.0min finished
+building tree 79 of 98
+building tree 80 of 98
+building tree 81 of 98
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done   8 tasks      | elapsed:    0.3s
+building tree 82 of 98
+building tree 83 of 98
+[Parallel(n_jobs=12)]: Done  67 out of  67 | elapsed:    2.4s finished
+[CV 2/3] END model__max_depth=25, model__min_samples_leaf=1, model__min_samples_split=13, model__n_estimators=67;, score=-426.798 total time= 9.2min
+building tree 84 of 98
+[Parallel(n_jobs=-1)]: Done  67 out of  67 | elapsed:  9.1min finished
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done   8 tasks      | elapsed:    0.4s
+[Parallel(n_jobs=12)]: Done  67 out of  67 | elapsed:    2.5s finished
+[CV 3/3] END model__max_depth=25, model__min_samples_leaf=1, model__min_samples_split=13, model__n_estimators=67;, score=-1711.225 total time= 9.3min
+[Parallel(n_jobs=-1)]: Done  67 out of  67 | elapsed:  9.4min finished
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done   8 tasks      | elapsed:    0.1s
+[Parallel(n_jobs=12)]: Done  67 out of  67 | elapsed:    1.7s finished
+[CV 1/3] END model__max_depth=25, model__min_samples_leaf=1, model__min_samples_split=13, model__n_estimators=67;, score=-1703.917 total time= 9.6min
+building tree 73 of 98
+building tree 74 of 98
+building tree 75 of 98
+building tree 76 of 98
+building tree 77 of 98
+building tree 78 of 98
+building tree 79 of 98
+building tree 85 of 98
+building tree 80 of 98
+building tree 81 of 98
+building tree 13 of 64
+building tree 14 of 64
+building tree 15 of 64
+building tree 86 of 98
+building tree 16 of 64
+building tree 17 of 64
+building tree 18 of 64
+building tree 82 of 98
+building tree 19 of 64
+building tree 87 of 98
+building tree 20 of 64
+[Parallel(n_jobs=-1)]: Done   8 tasks      | elapsed:   56.7s
+building tree 88 of 98
+building tree 21 of 64
+building tree 89 of 98
+building tree 22 of 64
+building tree 23 of 64
+building tree 90 of 98
+building tree 83 of 98
+building tree 24 of 64
+building tree 84 of 98
+building tree 61 of 64
+building tree 62 of 64building tree 63 of 64
+
+building tree 64 of 64
+building tree 91 of 98
+building tree 92 of 98
+building tree 93 of 98
+building tree 94 of 98
+building tree 95 of 98
+building tree 96 of 98
+building tree 61 of 64
+building tree 62 of 64
+building tree 63 of 64
+building tree 64 of 64
+[Parallel(n_jobs=-1)]: Done  51 out of  51 | elapsed:  6.2min finished
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done   8 tasks      | elapsed:    0.2s
+[Parallel(n_jobs=12)]: Done  46 out of  51 | elapsed:    0.7s remaining:    0.1s
+[Parallel(n_jobs=12)]: Done  51 out of  51 | elapsed:    0.9s finished
+[CV 3/3] END model__max_depth=21, model__min_samples_leaf=11, model__min_samples_split=12, model__n_estimators=51;, score=-1710.188 total time= 6.4min
+building tree 85 of 98
+building tree 86 of 98
+building tree 87 of 98
+building tree 88 of 98
+building tree 89 of 98
+building tree 90 of 98
+building tree 91 of 98
+building tree 92 of 98
+building tree 93 of 98
+building tree 94 of 98
+building tree 95 of 98
+building tree 96 of 98
+building tree 25 of 64
+building tree 26 of 64
+building tree 85 of 98
+building tree 27 of 64
+building tree 28 of 64
+building tree 86 of 98
+building tree 29 of 64
+building tree 30 of 64
+building tree 31 of 64
+building tree 87 of 98
+building tree 32 of 64
+building tree 33 of 64
+building tree 34 of 64
+building tree 35 of 64
+building tree 97 of 98
+building tree 88 of 98
+building tree 36 of 64
+building tree 89 of 98
+[Parallel(n_jobs=-1)]: Done  64 out of  64 | elapsed:  6.6min finished
+building tree 90 of 98
+building tree 91 of 98
+building tree 92 of 98
+building tree 93 of 98
+building tree 98 of 98
+building tree 94 of 98
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done   8 tasks      | elapsed:    0.1s
+[Parallel(n_jobs=12)]: Done  64 out of  64 | elapsed:    0.8s finished
+[CV 2/3] END model__max_depth=20, model__min_samples_leaf=14, model__min_samples_split=4, model__n_estimators=64;, score=-406.936 total time= 6.8min
+building tree 95 of 98
+building tree 96 of 98
+[Parallel(n_jobs=-1)]: Done  64 out of  64 | elapsed:  6.8min finished
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done   8 tasks      | elapsed:    0.1s
+[Parallel(n_jobs=12)]: Done  64 out of  64 | elapsed:    0.5s finished
+[CV 1/3] END model__max_depth=20, model__min_samples_leaf=14, model__min_samples_split=4, model__n_estimators=64;, score=-1698.219 total time= 6.9min
+building tree 97 of 98
+building tree 98 of 98
+building tree 37 of 64
+building tree 38 of 64
+building tree 39 of 64
+building tree 40 of 64
+building tree 41 of 64
+building tree 42 of 64
+building tree 43 of 64
+building tree 44 of 64
+building tree 45 of 64
+building tree 46 of 64
+building tree 47 of 64
+building tree 48 of 64
+building tree 97 of 98
+building tree 98 of 98
+[Parallel(n_jobs=-1)]: Done  98 out of  98 | elapsed: 10.6min finished
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done   8 tasks      | elapsed:    0.1s
+[Parallel(n_jobs=12)]: Done  98 out of  98 | elapsed:    0.8s finished
+[CV 2/3] END model__max_depth=26, model__min_samples_leaf=13, model__min_samples_split=13, model__n_estimators=98;, score=-410.345 total time=10.7min
+[Parallel(n_jobs=-1)]: Done  98 out of  98 | elapsed: 10.7min finished
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done   8 tasks      | elapsed:    0.1s
+[Parallel(n_jobs=12)]: Done  98 out of  98 | elapsed:    0.5s finished
+[CV 1/3] END model__max_depth=26, model__min_samples_leaf=13, model__min_samples_split=13, model__n_estimators=98;, score=-1700.638 total time=10.9min
+building tree 49 of 64building tree 50 of 64
+
+building tree 51 of 64
+building tree 52 of 64
+building tree 53 of 64
+building tree 54 of 64
+building tree 55 of 64
+building tree 56 of 64
+building tree 57 of 64
+building tree 58 of 64
+building tree 59 of 64
+building tree 60 of 64
+[Parallel(n_jobs=-1)]: Done  98 out of  98 | elapsed:  9.8min finished
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done   8 tasks      | elapsed:    0.1s
+[Parallel(n_jobs=12)]: Done  98 out of  98 | elapsed:    0.6s finished
+[CV 3/3] END model__max_depth=26, model__min_samples_leaf=13, model__min_samples_split=13, model__n_estimators=98;, score=-1710.279 total time=10.0min
+building tree 61 of 64
+building tree 62 of 64
+building tree 63 of 64
+building tree 64 of 64
+[Parallel(n_jobs=-1)]: Done  64 out of  64 | elapsed:  2.4min finished
+[Parallel(n_jobs=12)]: Using backend ThreadingBackend with 12 concurrent workers.
+[Parallel(n_jobs=12)]: Done   8 tasks      | elapsed:    0.0s
+[Parallel(n_jobs=12)]: Done  64 out of  64 | elapsed:    0.2s finished
+[CV 3/3] END model__max_depth=20, model__min_samples_leaf=14, model__min_samples_split=4, model__n_estimators=64;, score=-1709.843 total time= 2.6min
